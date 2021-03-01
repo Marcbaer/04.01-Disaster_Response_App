@@ -10,7 +10,7 @@ The following package versions are used:
 * python=3.8.5
 * flask=1.1.2
 * pandas=1.2.2
-* scikit-learn=0.23.2
+* scikit-learn=0.19.1
 * scipy=1.6.1
 * nltk=3.5
 * sqlalchemy=1.3.23
