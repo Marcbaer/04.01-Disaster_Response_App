@@ -7,13 +7,13 @@ The final model is deployed on a WebApp using Flask that allows to categorize ne
 The following package versions are used:
 
 
--python=3.8.5
--flask=1.1.2
--pandas=1.2.2
--scikit-learn=0.23.2
--scipy=1.6.1
--nltk=3.5
--sqlalchemy=1.3.23
+* python=3.8.5
+* flask=1.1.2
+* pandas=1.2.2
+* scikit-learn=0.23.2
+* scipy=1.6.1
+* nltk=3.5
+* sqlalchemy=1.3.23
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
