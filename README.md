@@ -37,4 +37,4 @@ The following files are present:
 
 
 
-<img src="app/App_screenshot.png" width="600" height="200">
+<img src="./app/App_screenshot.PNG" width="600" height="200">
