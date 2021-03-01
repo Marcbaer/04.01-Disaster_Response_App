@@ -15,6 +15,13 @@ The following package versions are used:
 * nltk=3.5
 * sqlalchemy=1.3.23
 
+### Project Files
+The following files are present:
+
+* **[process_data.py](data/process_data.py)**: ETL Pipeline to process the data and populate the SQLite database.
+* **[train_classifier.py](models/train_classifier.py)**: ML Pipeline to train and store the model.
+* **[run.py](app/run.py)**: Initiates the flask web application
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
