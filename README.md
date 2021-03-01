@@ -34,3 +34,7 @@ The following files are present:
     - `python run.py`
 
 3. Navigate to http://0.0.0.0:3001/
+
+
+
+<img src="app/App_screenshot.png" width="600" height="200">
